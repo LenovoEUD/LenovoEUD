@@ -2,5 +2,5 @@
 
 ****
 
-<img src = "https://i.ibb.co/BLtB82P/metulogo.png" height="10">  I`m currently CENG student at METU 
+<img src = "https://i.ibb.co/BLtB82P/metulogo.png" height="12">  I`m currently CENG student at METU 
 
